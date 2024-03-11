@@ -5,7 +5,7 @@ import FunctionalProgramming.LambdaExpression.util.TriFunction;
 public class useTriFunctionInterface {
 
     /**
-     * 파라미터가 세 개 이상이 필요한 경우 직접 만ㄷ르어야 함
+     * 파라미터가 세 개 이상이 필요한 경우 직접 만들어야 함
      */
 
     public static void main(String[] args) {
